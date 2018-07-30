@@ -16,7 +16,7 @@
 		"url": "https://github.com/tomv564/lsp-tsserver"
 	},
 	"dependencies": {
-		"typescript": "2.8.1",
+		"typescript": "3.0.1",
 		"vscode-languageserver": "3.5.0"
 	},
 	"scripts": {
